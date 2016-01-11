@@ -1,0 +1,34 @@
+{
+  "name": "datastruct",
+  "version": "0.1.0",
+  "description": "re impelmenting push pop shift unshift",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apinfodesign/datastruct.git"
+  },
+  "keywords": [
+    "array",
+    "manipulation"
+  ],
+  "author": "miles hochstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apinfodesign/datastruct/issues"
+  },
+  "homepage": "https://github.com/apinfodesign/datastruct",
+  "dependencies": {
+    "mocha": "^2.3.4"
+  }, 
+
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.8.0"
+  }
+}

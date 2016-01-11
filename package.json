@@ -4,7 +4,7 @@
   "description": "re impelmenting push pop shift unshift",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "gulp watch-mocha"
   },
   "repository": {
     "type": "git",
@@ -22,8 +22,7 @@
   "homepage": "https://github.com/apinfodesign/datastruct",
   "dependencies": {
     "mocha": "^2.3.4"
-  }, 
-
+  },
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-jshint": "^2.0.0",
